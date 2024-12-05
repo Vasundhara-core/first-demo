@@ -1,3 +1,4 @@
 # first-demo
-This is my first git repository
-author- vasundhara gadwal
+This is my first git repository.
+<br>
+Author- vasundhara gadwal
